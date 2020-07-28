@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+My name is Érick Lopes. I've been working as Back-End Developer since 2018 and currently I'm a Software Developer at Compasso UOL.
+I’m currently learning about React.js and Front-end technologies. So I've created a Youtube Channel called Dev<&>Tal where I produce and share content.
+
+would you like reach me?
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBzFDQ_eCQ8xiBv9vCiCQGw)](https://www.youtube.com/channel/UCBzFDQ_eCQ8xiBv9vCiCQGw)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-luiz-98b956105/)](https://www.linkedin.com/in/erick-luiz-98b956105/)
+
 <!--
 **erickLFLopes/erickLFLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
