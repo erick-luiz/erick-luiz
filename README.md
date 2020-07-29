@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img width="300" src="https://i.ytimg.com/vi/Ld3DfWXSeuw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBYrNeDPuM4fx1sEk3WUVMCJPjB2Q" align="right">
 
+<a href="https://www.youtube.com/channel/UCBzFDQ_eCQ8xiBv9vCiCQGw" target="target">
+<img width="300" src="https://i.ytimg.com/vi/Ld3DfWXSeuw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBYrNeDPuM4fx1sEk3WUVMCJPjB2Q" align="right" />
+</a>
 My name is Érick Lopes. I've been working as Back-End Developer since 2018 and currently I'm a Software Developer at Compasso UOL.
 I’m currently learning about React.js and Front-end technologies. So I've created a Youtube Channel called Dev<&>Tal where I produce and share content.
 
